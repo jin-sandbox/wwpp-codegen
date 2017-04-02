@@ -4,7 +4,7 @@ usage
 ---
 ```
 npm install wwpm-codegen -g
-wwgen -s ./schema/ -o ./output -ns com.tianpeng
+wwgen -s ./schema/ -o ./output -ns com.example
 ```
 
 
