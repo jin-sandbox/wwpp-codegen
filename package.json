@@ -1,0 +1,12 @@
+{
+  "name": "wwpp-codegen",
+  "version": "0.1.1",
+  "bugs": {"url": "https://github.com/jindw/webwork/issues"},
+  "description": "webwork plus plus model code gen",
+  "keywords": ["web","rest","restfull","http","application","framework"],
+  "main": "gen.js",
+  "maintainers": [{"name": "jindw","email": "jindw@xidea.org" }],
+  "license": "MIT",
+  "engines": { "node": ">= 6.0.0"},
+  "dependencies": {"lite":"*"}
+}
